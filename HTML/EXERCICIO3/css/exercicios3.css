@@ -1,0 +1,88 @@
+
+body {
+
+    font-family: Arial, Verdana;
+
+    background-color: #F0FFF0;
+	
+	position: relative;
+	left: 50px;
+	top: 10px;
+	
+	width: 1200px;
+	
+	height: 2000px;
+
+    }
+
+  
+
+
+
+h1 {
+
+  color: blue;
+
+  text-align: left;
+  
+  
+
+  }
+
+
+
+
+p{
+
+  text-align: justify;
+
+  }
+
+  
+
+figure{
+	
+  text-align: center;
+
+  background-position: center;
+
+  }
+
+
+
+table {
+
+  width: 600px;
+
+  border: 1px solid black;
+  
+  background-color: yellow;
+
+ }
+
+
+
+th{
+
+  border: auto;
+
+  padding: 5px;
+
+ text-align: left;
+ 
+ background-color: green;
+ 
+ color: white;
+
+  }
+  td {
+
+  border: 1px solid black;
+
+  padding: 5px;
+
+  text-align: left;
+  }
+
+
+
